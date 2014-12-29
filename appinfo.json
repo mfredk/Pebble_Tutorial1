@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mrfred",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Tutorial 1",
+    "uuid": "5a55083a-11d2-4aa9-99bc-ba19669d6219",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
